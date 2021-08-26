@@ -11,7 +11,7 @@ Olá eu sou o Wilhiam Junior<br>
   <a href="https://github.com/wilhiamjr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wilhiamjr&show_icons=true&theme=blue-green&_all_commits=true&count_private=true"/>
  <a href="ttps://github.com/wilhiamjr/github-readme-stats">
-<img height="150em" widht="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilhiamjr&layout=compact&theme=blue-green"/>
+<img height="150em" width="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilhiamjr&layout=compact&theme=blue-green"/>
 </div>
 
    
