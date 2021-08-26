@@ -13,5 +13,5 @@ Olá eu sou o Wilhiam Junior<br>
  <a href="ttps://github.com/wilhiamjr/github-readme-stats">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilhiamjr&layout=compact&theme=blue-green"/>
 </div>
-<div><img src="http://ryanseslow.com/" width="480" height="192" frameBorder="0" class="giphy-embed" allowFullScreen></div>
+
    
