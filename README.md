@@ -14,9 +14,9 @@ Olá eu sou o Wilhiam Junior<br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><br>
  <br><div style="display:inline_block">
-  <a href="https://github.com/wilhiamjr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wilhiamjr&show_icons=true&theme=blue-green&_all_commits=true&count_private=true"/>
- <a href="ttps://github.com/wilhiamjr/github-readme-stats">
+  <a href="https://github.com/Wilhiamjr">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Wilhiamjr&show_icons=true&theme=blue-green&_all_commits=true&count_private=true"/>
+ <a href="ttps://github.com/Wilhiamjr/github-readme-stats">
 <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilhiamjr&layout=compact&theme=blue-green"/>
 </div>
 
