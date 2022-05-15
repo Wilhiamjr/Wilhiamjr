@@ -1,5 +1,5 @@
 Olá eu sou o Wilhiam Junior<br><br>
-🏡Moro em Inhumas - Goias<br><br>
+🏡Sou de Inhumas - Goias<br><br>
 👶🏾Papai do Brayan <br><br>
 👨🏾‍🎓 Estudante de Engenharia De Software - IFG-GO e Analise e Desenvolvimento de Sistemas - Uninassau<br><br>
 <div> 
