@@ -9,10 +9,10 @@ Olá eu sou o Wilhiam Junior<br><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/wilhiamopyt/iconDev/blob/main/prisma.jpg">
- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/wilhiamopyt/iconDev/blob/main/bootstrap.jpg">
+<!--  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/wilhiamopyt/iconDev/blob/main/prisma.jpg"> -->
+<!--  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/wilhiamopyt/iconDev/blob/main/bootstrap.jpg"> -->
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/Wilhiamjr/iconDev/blob/main/nextjs.png">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb.svg">
+<!--   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb.svg"> -->
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></div><br>
 
  <div style="display:inline_block">
