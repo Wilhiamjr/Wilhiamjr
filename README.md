@@ -1,7 +1,8 @@
 Olá eu sou o Wilhiam Junior<br><br>
 🏡Sou de Inhumas - Goias<br><br>
 👶🏾Papai do Brayan <br><br>
-👨🏾‍🎓 Estudante de Engenharia De Software - IFG-GO e Analise e Desenvolvimento de Sistemas - Uninassau<br><br>
+👨🏾‍🎓 Formado em  Analise e Desenvolvimento de Sistemas - Uninassau<br><br>
+👨🏾‍🎓 Estudante de Engenharia De Software - IFG-GO<br><br>
 <div> 
  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
